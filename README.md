@@ -1,3 +1,3 @@
 ### Hi there 👋 I'm Moises
 <hr>
-Java ☕ Student and bitcoin fan
+Java ☕ Student and Bitcoin fan
