@@ -2,8 +2,8 @@
 
 <div align="center">
 	<a href="https://github.com/MoisesC-Costa">
-		<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=MoisesC-Costa&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-      		<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesC-Costa&theme=radical" />
+		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoisesC-Costa&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+      		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesC-Costa&theme=radical" />
 	</a>
 </div>
 
