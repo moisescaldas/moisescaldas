@@ -1,5 +1,4 @@
-## I'm Moises - Java ☕ Student and Bitcoin fan
-
+## I'm Moises - Java Student ☕
 <div align="left">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoisesC-Costa&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 </div>
