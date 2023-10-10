@@ -2,8 +2,7 @@
 <div align="left">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moisescaldas&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 
-</div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisescaldas)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moisescaldas&show_icons=true&theme=radical&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api/top-langs/?username=moisescaldas" />
 
 ## Skills :desktop_computer:
 <div>
