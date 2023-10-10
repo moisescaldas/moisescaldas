@@ -1,8 +1,6 @@
 ## I'm Moises - Java Dev ☕
 <div align="left">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moisescaldas&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisescaldas" />
+	<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=moisescaldas&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 
 ## Skills :desktop_computer:
 <div>
